@@ -80,5 +80,3 @@ Use `sample-malicious.js`.
 ## Extending
 Add new rules inside `security_checks/`.
 
-## License
-MIT License
